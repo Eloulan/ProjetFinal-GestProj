@@ -105,17 +105,18 @@ button {
     transition: transform 0.2s;
 }
 
-#bt_oui {
+bt_oui {
     background-color: #28a745;
 }
 
 #bt_oui:hover {
     transform: scale(1.1);
 }
-
 #bt_fuis {
     background-color: #dc3545;
     position: fixed; 
+    top: 50%;
+    left: 54%;
     z-index: 1000;
 }
 
