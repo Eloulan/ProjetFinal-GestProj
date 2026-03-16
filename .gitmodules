@@ -1,0 +1,3 @@
+[submodule "libs/animate"]
+	path = libs/animate
+	url = https://github.com/animate-css/animate.css.git
